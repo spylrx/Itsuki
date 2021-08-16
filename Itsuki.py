@@ -39,6 +39,7 @@ print(f"""{Fore.RED}
                    ██║   ██║   ███████║╚██████╔╝██║  ██╗██║
                    ╚═╝   ╚═╝   ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝
                {Fore.YELLOW}  <+> https://github.com/spylrx
+               {Fore.YELLOW}  <+> ID x Token
 """)
 id = input(Fore.RED+"[$] I˜Sk" + Fore.WHITE+"@" + Fore.RED+"Spylrx" + Fore.WHITE+":" + Fore.CYAN+"~" + Fore.RED+"ID :" + Fore.WHITE+" ")
 
